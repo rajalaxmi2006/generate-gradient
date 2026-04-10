@@ -5,7 +5,7 @@ A simple and interactive web app that generates beautiful random CSS gradients w
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/random-gradient-generator/
+👉 https://github.com/rajalaxmi2006/generate-gradient/
 
 ---
 
